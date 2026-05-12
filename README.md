@@ -35,10 +35,6 @@ Currently Learning:Java,Spring boot and SQL
 </div>
 
 
-<h2 align="center">✉️MY CONTACTS✉️</h2>
-<div align="center">
-
-</div>
 
 
 <!--
