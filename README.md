@@ -3,10 +3,10 @@
 </h1>
 <h3 align="left">ABOUT ME:</h3>
 <h4 align="left">
-I'm a brasilian 🇧🇷 Cloud Engeneer
+I'm a brasilian 🇧🇷 java Backend developer
 <br>
 </br>
-Currently Learning:C++ and Its Misteries.
+Currently Learning:Java,Spring boot and SQL
 <br>
 </br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&weight=19&size=15&pause=1000&color=11F734&width=435&lines=Portifolio+in+progress...+;3%25..." alt="Typing SVG">
