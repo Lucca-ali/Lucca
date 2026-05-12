@@ -12,8 +12,6 @@ Currently Learning:C++ and Its Misteries.
 <img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&weight=19&size=15&pause=1000&color=11F734&width=435&lines=Portifolio+in+progress...+;3%25..." alt="Typing SVG">
 <h2 align="center">👩🏻‍💻NOW LEARNING👩🏻‍💻</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
